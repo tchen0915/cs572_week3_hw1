@@ -9,7 +9,7 @@ make sure system has python3 and pip3
 - install crypto related python package
 
 ```python
-pip3 install pycryptodome
+pip3 install pycryptodome -t .
 ```
 
 # 2. Encryption/Decryption with RC4
